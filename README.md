@@ -48,7 +48,8 @@ Developer experience on a subsystem, i.e. the number of changes the developer ma
 
 ----------------------------------------------------------------------------------------------------------------------
 
-
+![Report for the models](https://github.com/dantecomedia/Bug-Detection/blob/master/1.PNG)
+![Report for the models](https://github.com/dantecomedia/Bug-Detection/blob/master/2.PNG)
 
 
 
